@@ -4,7 +4,6 @@ import java.math.BigDecimal;
 import java.sql.Date;
 
 import org.hibernate.annotations.CreationTimestamp;
-import org.hibernate.annotations.ManyToAny;
 import org.hibernate.annotations.UpdateTimestamp;
 
 import jakarta.persistence.Column;
