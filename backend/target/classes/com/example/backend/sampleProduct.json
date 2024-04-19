@@ -1,0 +1,16 @@
+{
+    "sku": "Sky Book",
+    "name": "Crash Course in Ninja",
+    "description": "Learn Ninja at your own pace. The author explains how the technology works in easy-to-understand language. This book includes working examples that you can apply to your own projects. Purchase the book and get started today!",
+    "unitPrice": 15.00,
+    "imageUrl": "https://t4.ftcdn.net/jpg/02/60/09/61/240_F_260096182_zCnz6bGN1680iGIEIo26MHDBWk1V3a0t.jpg",
+    "active": true,
+    "unitsInStock": 100,
+    "dateCreated": "2024-04-19",
+    "lastUpdated": null,
+    "category": {
+      "id": 4,
+      "categoryName": "Books",
+      "products": [ ]
+    }
+  }
